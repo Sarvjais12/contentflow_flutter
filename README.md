@@ -1,17 +1,28 @@
-# contentflow
+# ContentFlow 📱
 
-A new Flutter project.
+A full-stack cross-platform **Social Media Content Planner** built with Flutter & Firebase.
 
-## Getting Started
+## Features
+- 🔐 Firebase Authentication (Email/Password)
+- 📅 Schedule posts for Instagram, LinkedIn & Twitter
+- ⚡ Real-time Firestore database
+- #️⃣ Hashtag manager
+- 📊 Platform-specific character limits (Twitter: 280, Instagram: 2200, LinkedIn: 3000)
+- 🗑️ Delete scheduled posts
+- 🌙 Dark mode UI
 
-This project is a starting point for a Flutter application.
+## Tech Stack
+- **Frontend:** Flutter (Dart)
+- **Backend:** Firebase (Auth + Firestore)
+- **State Management:** Provider
+- **Architecture:** MVVM
 
-A few resources to get you started if this is your first Flutter project:
+## Setup
+```bash
+flutter pub get
+flutterfire configure
+flutter run
+```
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+_Coming soon_
