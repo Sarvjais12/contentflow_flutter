@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "637559040183",
+    "project_id": "contentflow-7b3af",
+    "storage_bucket": "contentflow-7b3af.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637559040183:android:6399f8097a72eb292d4532",
+        "android_client_info": {
+          "package_name": "com.example.contentflow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637559040183-t8dfc390n08fgfnkllepcgkvcm6pa9k6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACNGD249nxyfHLpnqQS3-Bu1dNNYMgX8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637559040183-t8dfc390n08fgfnkllepcgkvcm6pa9k6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
